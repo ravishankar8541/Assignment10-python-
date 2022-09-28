@@ -1,0 +1,1 @@
+# Write a python script to print first 10 multiples of Nq
